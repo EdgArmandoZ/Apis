@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 export class MargaritaserviceService {
 
  
-  private apiURL = 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=wine';
+  private apiURL = 'https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita';
 
   constructor(private http: HttpClient) { }
 
